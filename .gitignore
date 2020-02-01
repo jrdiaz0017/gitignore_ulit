@@ -98,17 +98,17 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 
-# SageMath parsed files
-*.sage.py
-
-# Environments
+# SageMath par# Environments
 .env
 .venv
 env/
 venv/
 ENV/
 env.bak/
-venv.bak/
+venv.bak/sed files
+*.sage.py
+
+
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# mga folder ko na hindi dapat i-upload
+/database/
+file_na_hindi_ina-upload.txt
